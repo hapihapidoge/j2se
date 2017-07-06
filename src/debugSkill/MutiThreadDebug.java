@@ -3,7 +3,7 @@ package debugSkill;
 /**
  * 多线程调试
  *
- * @author liaoqiang
+ * @author hapihapidoge
  * @create 2017-07-06 10:40
  */
 public class MutiThreadDebug {
